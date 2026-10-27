@@ -1,6 +1,7 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Enrique Esteves
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I'm a bilingual English and Spanish professional with experience in retail, hospitality, and management. Earned my Associate
+of Science degree. I am currently attending the University of Texas at San Antonio studying Information Systems in Business._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +14,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"  One bad day is not a bad life."_
